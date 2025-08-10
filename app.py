@@ -1,5 +1,5 @@
-import streamlit as 
-‎إعداد الصفحة #
+import streamlit as st 
+# إعداد الصفحة
 st.set_page_config(page_title=“Career Test / اختبار تحديد المهنة”, page_icon=“🎯”, layout=“centered”)
 
 ‎# صفحة اختيار اللغة وترحيب باسم مختلف
