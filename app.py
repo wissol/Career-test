@@ -38,7 +38,7 @@ margin-top: 15px;
 
 
 # صفحة اختيار اللغة وترحيب
-if 'lang' not in st.session_state:
+if "lang" not in st.session_state:
 st.title("مرحباً! أنا وصال، أنشأت هذا الاختبار لتساعدك على تحديد مهنتك.")
 st.write("Welcome! I’m Wissol, I created this test to help you discover your career path.")
 st.write("Please choose your language / من فضلك اختر لغتك:")
